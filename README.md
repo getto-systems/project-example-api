@@ -1,2 +1,2 @@
-# core
+# example-api
 
