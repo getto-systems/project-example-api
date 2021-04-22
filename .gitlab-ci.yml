@@ -23,8 +23,8 @@ test:
   image: rust:1-buster
 
   script:
-    - "cargo build --locked"
-    - ": cargo test --locked"
+    - "cargo build"
+    - ": cargo test"
 
 bump_version:
   stage: bump_version
