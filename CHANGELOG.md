@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Version : 0.0.4
+
+- fix: dockerfile : See merge request getto-systems-base/projects/example/api!13
+
+
 ## Version : 0.0.3
 
 - fix: dockerfile : See merge request getto-systems-base/projects/example/api!11
